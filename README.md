@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akira</h1>
 <h3 align="center">Always curious about everything.</h3>
 
-- 🔭 I’m currently working on **IoT Software Engineering Programme**
+- 🔭 I’m currently study **IoT Software Engineering Programme**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
